@@ -1,0 +1,10 @@
+body{
+    background-image: url("http://www.tokkoro.com/picsup/2944717-steven-universe-cartoon___mixed-wallpapers.jpg");
+    /* background-position: center; */
+    background-size:contain;
+}
+#noclass, #Wins, #Losses, #goalvalue, #totalvalue{
+    background-color: rgba(210, 229, 253, 0.75);    
+    font-weight: 800;
+    
+}
